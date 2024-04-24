@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog][keepachangelog] and this project adheres to [Semantic Versioning][semver].
 
+## Unreleased
+
+### Added
+
+- Support Laravel `11.x`
+- Support PHPUnit `v11`
+
 ## v2.8.0
 
 ### Added
